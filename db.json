@@ -1,36 +1,40 @@
 {
-"fat": "34.62",
-"measureDate": "2023-09-19T06:42:23",
-"unit": "kg"
-"weight":  "107.3"
-},
-{
-"fat": "33.12",
-"measureDate": "2023-09-19T06:42:23",
-"unit": "kg"
-"weight":  "107.3"
-},
-{
-"fat": "34.62",
-"measureDate": "2023-09-19T06:42:23",
-"unit": "kg"
-"weight":  "107.3"
-},
-{
-"fat": "34.62",
-"measureDate": "2023-09-19T06:42:23",
-"unit": "kg"
-"weight":  "107.3"
-},
-{
-"fat": "34.62",
-"measureDate": "2023-09-19T06:42:23",
-"unit": "kg"
-"weight":  "107.3"
-},
-{
-"fat": "34.62",
-"measureDate": "2023-09-19T06:42:23",
-"unit": "kg"
-"weight":  "107.3"
-},
+  "measures": [
+    {
+      "fat": "32.99",
+      "measureDate": "2023-09-14T04:37:50",
+      "unit": "kg",
+      "weight": "108.1"
+    },
+    {
+      "fat": "34.65",
+      "measureDate": "2023-09-15T03:42:46",
+      "unit": "kg",
+      "weight": "108.3"
+    },
+    {
+      "fat": "34.62",
+      "measureDate": "2023-09-19T06:42:23",
+      "unit": "kg",
+      "weight": "107.3"
+    },
+    {
+      "fat": "33.42",
+      "measureDate": "2023-09-20T06:25:33",
+      "unit": "kg",
+      "weight": "107.6"
+    },
+    {
+      "fat": "36.923",
+      "measureDate": "2023-10-12T07:09:48",
+      "unit": "kg",
+      "weight": "110.1"
+    },
+    {
+      "fat": "36.48",
+      "measureDate": "2023-10-15T06:26:35",
+      "unit": "kg",
+      "weight": "110.4"
+    }
+  ]
+}
